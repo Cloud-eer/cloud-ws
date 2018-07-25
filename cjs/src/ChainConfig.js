@@ -17,7 +17,7 @@ _this = {
         TEST: {
             core_asset: "ECS",
             address_prefix: "ECS",
-            chain_id: "c4fd64cf856445070a2893cae0a6410bebbb14431b6b94fd50b18822cf5a5543"
+            chain_id: "eb845a961d5188be2c7fcd71130243fa2c640a4169148d383a109e11f1cbf250"
         },
         BitShares: {
             core_asset: "BTS",
