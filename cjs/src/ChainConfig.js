@@ -19,10 +19,10 @@ _this = {
             address_prefix: "ECS",
             chain_id: "eb845a961d5188be2c7fcd71130243fa2c640a4169148d383a109e11f1cbf250"
         },
-        BitShares: {
-            core_asset: "BTS",
-            address_prefix: "BTS",
-            chain_id: "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8"
+        ECS_TEST: {
+            core_asset: "ECS",
+            address_prefix: "ECS",
+            chain_id: "eb25539490e25d7e267c93a1224deaa3da34fe7731c83419dc9b9c443f42984b"
         }
     },
 
