@@ -19,7 +19,7 @@ _this = {
         ECS_TEST: {
             core_asset: "ECS",
             address_prefix: "ECS",
-            chain_id: "eb25539490e25d7e267c93a1224deaa3da34fe7731c83419dc9b9c443f42984b"
+            chain_id: "8f10552f4c50a9c6e342204b26df1f12bea705cf4d43e15a9977476f7c761b83"
         }
     },
 
